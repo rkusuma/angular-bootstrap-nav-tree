@@ -6,10 +6,10 @@
     "licence":"MIT",
     "keywords":["angularjs","bootstrap","tree","widget"],
     "authors":["Nick Perkins"],
-    "homepage"  :"https://github.com/rkusuma/angular-bootstrap-nav-tree",
+    "homepage"  :"https://github.com/rkusuma/ku-angular-bootstrap-nav-tree",
     "repository":{
         "type":"git",
-        "url":"git://github.com/rkusuma/angular-bootstrap-nav-tree"
+        "url":"git://github.com/rkusuma/ku-angular-bootstrap-nav-tree"
     },
     "ignore": [
         "src",
